@@ -1,0 +1,50 @@
+[
+    {
+       "id": 10,
+       "name": "ሳንቡሳ",
+       "description" : "5 Pieces of Sambusas bread in one pack",
+       "type" : "Bread",
+       "image": "sambusa.jpg",
+       "price": 65
+    },  
+    {
+       "id": 11,
+       "name": "ጢቢኛ",
+       "description" : "",
+       "type" : "Bread",
+       "image": "tibigna.jpg",
+       "price": 55
+    },   
+    {
+       "id": 12,
+       "name": "ድፎ ዳቦ ተቆራጭ",
+       "description" : "",
+       "type" : "Bread",
+       "image": "difo_tekorach.jpg",
+       "price": 38
+    },   
+    {
+       "id": 13,
+       "name": "ህብስት",
+       "description" : "4kg weighted Hibist Ethiopian cultural bread.",
+       "type" : "Bread",
+       "image": "hibist.jpg",
+       "price": 480
+    },
+    {
+      "id": 14,
+      "name": "አምባሻ",
+      "description" : "1.5kg weighted Ambasha Ethiopian cultural flatten bread.",
+      "type" : "Bread",
+      "image": "anbasha.jpg",
+      "price": 180   
+    },   
+    {
+      "id": 15,
+      "name": "ሙልሙል ዳቦ",
+      "description" : "Three Mulmul Ethiopian cultural breads each weighted 200g",
+      "type" : "Bread",
+      "image": "mulmul.jpg",
+      "price": 95
+    }  
+   ]
